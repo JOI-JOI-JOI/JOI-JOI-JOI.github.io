@@ -1,0 +1,8 @@
+<html>
+<body>
+<title>JOI x3 - BGMT</title>
+<img src="https://raw.githubusercontent.com/JOI-JOI-JOI/JOI-JOI-JOI.github.io/main/Storage/Site/MBG.png"><br>
+<h1><a style="text-decoration: bold; font-size:50px; color: #5a4fcf";">BACKGROUND MUSIC TESTING PAGE</a></h1>
+<embed src="/html/Kalimba.mp3" loop="true" autostart="true" width="2" height="0">
+</body>
+</html>
